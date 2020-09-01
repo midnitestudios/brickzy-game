@@ -2,4 +2,4 @@
 ```
 1. Help
 
-_This data is encrypted with BRICKZY Advanced Encryption Utility._
+**This data is encrypted with BRICKZY Advanced Encryption Utility.**
