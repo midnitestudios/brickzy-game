@@ -1,3 +1,5 @@
 # BRICKZY Open Source
 ```
-## Introduction
+1. Help
+
+_This data is encrypted with BRICKZY Advanced Encryption Utility._
