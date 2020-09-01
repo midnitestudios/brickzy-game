@@ -1,1 +1,1 @@
-# brickzy-game
+# BRICKZY Open Source
