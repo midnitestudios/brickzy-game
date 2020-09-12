@@ -1,0 +1,1 @@
+X=Msgbox("Launcher can not find your token. Is this copy of BRICKZY legitimate?",0+16,"Failed to Verify")
